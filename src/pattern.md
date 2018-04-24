@@ -1,5 +1,4 @@
-
-# 示例代码
+本文所有源代码都在我的Github，并且持续更新中…欢迎Star [DesignPattern](https://github.com/Ooo0oO0o0oO/DesignPattern)# 示例代码
 
 
 # 责任链模式定义
